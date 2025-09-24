@@ -61,3 +61,6 @@
 Висновки: Git – зручний інструмент для роботи з кодом. Він дозволяє зберігати історію змін і працювати в команді. Комміти допомагають бачити, хто і що змінив, та легко повертатися до попередніх версій.
 
 Conclusions: Git is a useful tool for coding projects. It keeps the history of changes and makes teamwork easier. Commits show who changed what and allow returning to earlier versions if needed.  
+
+
+Висновки: я молодець.
